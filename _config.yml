@@ -21,7 +21,8 @@ footer-links:
   email: jared.york@steercleargame.com
   facebook: steerclear
   flickr:
-  github: barryclark/jekyll-now
+  # github: barryclark/jekyll-now
+  github:
   instagram: steer_clear
   linkedin:
   pinterest:

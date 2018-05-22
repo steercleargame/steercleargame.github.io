@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Steer Clear is a game in which you navigate your tugboat and barge through narrow ports and increasingly complex waters.  Along the way you can pick up deliveries and drop them off at specified docks for gold!  Watch out though, the procedurally generated waters tend to become more and more difficult making steering clear of all sorts of dangers... interesting.
 
-### More Information
+### Where can you find us?
+[Facebook](https://www.facebook.com/steerclear/)
+[Instagram](https://www.instagram.com/steer_clear)
+[IndieDB](http://www.indiedb.com/games/steer-clear)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Want to contact me?
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[jared.york@steercleargame.com](mailto:jared.york@steercleargame.com)

@@ -1,0 +1,63 @@
+.landing-video
+{
+  float: left;
+  width: 100%;
+  filter: brightness(90%);
+}
+
+.brand-wrapper
+{
+  position: absolute;
+  float: left;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  width: 640px;
+  height: 640px;
+  color: white;
+  text-align: center;
+  z-index: 100;
+}
+
+.brand-title
+{
+  color: white;
+  font-size: 5em;
+  line-height: 1.25em;
+}
+
+.brand-tagline
+{
+  font-size: 2em;
+  font-family: monospace;
+}
+
+.btn-default
+{
+  color: white;
+  background: #03A9F4;
+  padding: 16px 32px 16px 32px;
+  border-radius: 2px;
+}
+
+.btn-default:hover
+{
+  color: white;
+  background: #4FC3F7;
+}
+
+@media (max-width: 1440px)
+{
+  .brand-wrapper
+  {
+    min-height: 370px;
+  }
+}
+
+@media (max-width: 720px)
+{
+  .brand-title
+  {
+    font-size: 2.5em;
+  }
+}

@@ -9,7 +9,8 @@ Steer Clear is a game in which you navigate your tugboat and barge through narro
 ### Where else can you find us?
 [Facebook](https://www.facebook.com/steerclear/)<br />
 [Instagram](https://www.instagram.com/steer_clear)<br />
-[IndieDB](http://www.indiedb.com/games/steer-clear)
+[IndieDB](http://www.indiedb.com/games/steer-clear)<br />
+[itch.io](https://jaredyork.itch.io/steer-clear)
 
 ### Want to contact me?
 
